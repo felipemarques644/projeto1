@@ -2,3 +2,8 @@ int multiplicacao(int x, int y){
 
 	return(x*y);
 }
+
+int soma(int x, int y){
+
+	return(x+y);
+}
